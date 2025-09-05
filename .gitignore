@@ -1,0 +1,27 @@
+## Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+
+## Archivos de IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+## Reportes de testing y coverage
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+htmlcov/
